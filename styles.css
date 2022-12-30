@@ -1,6 +1,7 @@
 body{
     font-family: Tahoma;
-    font-size: 18px
+    font-size: 18px;
+    background-color: rgb(180,180,180);
   }
   
   header{
@@ -17,6 +18,8 @@ body{
     border: 3px solid black;
     display: block;
     margin: 0 auto;
+    height: 800px;
+    max-width:1000px;
   }
   
   #img-caption{
@@ -24,6 +27,14 @@ body{
     font-style:Italic;
   }
   
-  li{
-    font-size: 1.2em;
+  #tribute-info{
+    margin: 0 auto;
+    padding: 10px 20px;
+    min-width:500px;
+    width:60%;
+    Font-size: 1.2em;
+    background-color:rgb(130,180,180);
+    box-shadow: 0px 0px 7px 4px rgba(0,0,0,0.7);
+  -webkit-box-shadow: 0px 0px 7px 4px rgba(0,0,0,0.7);
+  -moz-box-shadow: 0px 0px 7px 4px rgba(0,0,0,0.7);
   }
