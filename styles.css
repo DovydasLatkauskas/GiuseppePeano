@@ -1,0 +1,29 @@
+body{
+    font-family: Tahoma;
+    font-size: 18px
+  }
+  
+  header{
+    text-align:center;
+    border: 3px black solid;
+    background-color:rgb(130,180,180);
+  }
+  
+  #sub-heading{
+    font-style:Italic;
+  }
+  
+  #image{
+    border: 3px solid black;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  #img-caption{
+    text-align:center;
+    font-style:Italic;
+  }
+  
+  li{
+    font-size: 1.2em;
+  }
