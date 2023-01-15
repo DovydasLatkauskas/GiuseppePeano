@@ -1,0 +1,45 @@
+body{
+    font-family: Tahoma;
+    font-size: 18px;
+    background-color: rgb(180,180,180);
+  }
+  
+  header{
+    text-align:center;
+    border: 3px black solid;
+    background-color:rgb(130,180,180);
+  }
+  
+  #sub-heading{
+    font-style:Italic;
+  }
+  
+  #image{
+    border: 3px solid black;
+    display: block;
+    margin: 0 auto;
+    height: 800px;
+    max-width:1000px;
+  }
+  
+  #img-caption{
+    text-align:center;
+    font-style:Italic;
+  }
+  
+  #tribute-info{
+    margin: 0 auto;
+    padding: 10px 20px;
+    min-width:500px;
+    width:60%;
+    Font-size: 1.2em;
+    background-color:rgb(130,180,180);
+    box-shadow: 0px 0px 7px 4px rgba(0,0,0,0.7);
+  -webkit-box-shadow: 0px 0px 7px 4px rgba(0,0,0,0.7);
+  -moz-box-shadow: 0px 0px 7px 4px rgba(0,0,0,0.7);
+  }
+  
+  li{
+    margin:15px 0px;
+    text-transform: capitalize;
+  }
